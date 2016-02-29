@@ -1,0 +1,25 @@
+.github	.github folder	4 days ago
+.tx	Added Galician and Slovenian	4 months ago
+install	set default option for allowPrivateGroups on setup	9 days ago
+logs	added daemon capability to ./nodebb start, npm start/stop scripts	2 years ago
+public	fix for post menu display on newPost	2 days ago
+src	fix missing callback	3 hours ago
+tests	added delete purge test	3 days ago
+.codeclimate.yml	code climate yml	5 months ago
+.editorconfig	Fix editorconfig syntax	a year ago
+.gitattributes	#3343	7 months ago
+.gitignore	fixed .gitignore #4256	4 days ago
+.jsbeautifyrc	format/jshint favourites.js	3 years ago
+.jshintrc	unused true	5 months ago
+.travis.yml	added node 4.2 to travis	2 months ago
+Dockerfile	Insured we're on a recent & Long Time Support (LTS) version of node.	4 months ago
+Gruntfile.js	added option to skip asset compilation on initial grunt startup with …	5 days ago
+LICENSE	Resolving issue #2 -- added GPLv3 license file and updated package.json	3 years ago
+README.md	updated blurb	6 months ago
+app.js	closes #4252	5 days ago
+bcrypt.js	shorter bcrypt	a year ago
+loader.js	closes #3663	5 months ago
+minifier.js	closes #4024	27 days ago
+nodebb	closes #4191	5 days ago
+nodebb.bat	That's not how you do comments silly	a year ago
+package.json	up themes
